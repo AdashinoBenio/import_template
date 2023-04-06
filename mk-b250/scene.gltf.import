@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bnxjx2unpv42q"
-path="res://.godot/imported/scene.gltf-421fd66b8da1dc7821252228f919a639.scn"
+uid="uid://bj3pvf6l8ox50"
+path="res://.godot/imported/scene.gltf-9f6cd4e95b066a838ccf1fac524064a1.scn"
 
 [deps]
 
-source_file="res://scenes/dummies/dummies01/dummy01/scene.gltf"
-dest_files=["res://.godot/imported/scene.gltf-421fd66b8da1dc7821252228f919a639.scn"]
+source_file="res://scenes/guns/mk-b250/scene.gltf"
+dest_files=["res://.godot/imported/scene.gltf-9f6cd4e95b066a838ccf1fac524064a1.scn"]
 
 [params]
 

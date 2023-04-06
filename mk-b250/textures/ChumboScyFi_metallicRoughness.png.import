@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dfhnyqfixc05s"
-path.s3tc="res://.godot/imported/blinn1_baseColor.png-63d87303cef9d6ee0730eccce7320d30.s3tc.ctex"
+uid="uid://cpj8qa3nu506y"
+path.s3tc="res://.godot/imported/ChumboScyFi_metallicRoughness.png-386f263825385c566cf8795f3801aebd.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://scenes/dummies/dummies01/dummy01/textures/blinn1_baseColor.png"
-dest_files=["res://.godot/imported/blinn1_baseColor.png-63d87303cef9d6ee0730eccce7320d30.s3tc.ctex"]
+source_file="res://scenes/guns/mk-b250/textures/ChumboScyFi_metallicRoughness.png"
+dest_files=["res://.godot/imported/ChumboScyFi_metallicRoughness.png-386f263825385c566cf8795f3801aebd.s3tc.ctex"]
 
 [params]
 

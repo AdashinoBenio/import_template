@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjtl54ao74omk"]
+
+[ext_resource type="PackedScene" uid="uid://bnxjx2unpv42q" path="res://dummies/dummies01/dummy01/scene.gltf" id="3_gmyq0"]
+
+[node name="DummiesContainer" type="Node3D"]
+
+[node name="Dummy" parent="." instance=ExtResource("3_gmyq0")]
+transform = Transform3D(-0.15, 0, 1.86265e-08, 0, 0.15, 0, -1.86265e-08, 0, -0.15, 5.30458, 0, 0.225745)
+
+[node name="Dummy2" parent="." instance=ExtResource("3_gmyq0")]
+transform = Transform3D(-0.15, 0, 1.86265e-08, 0, 0.15, 0, -1.86265e-08, 0, -0.15, 2.60462, 0, 0.225745)
+
+[node name="Dummy3" parent="." instance=ExtResource("3_gmyq0")]
+transform = Transform3D(-0.15, 0, 1.86265e-08, 0, 0.15, 0, -1.86265e-08, 0, -0.15, 0.0546193, 0, 0.225745)
+
+[node name="Dummy4" parent="." instance=ExtResource("3_gmyq0")]
+transform = Transform3D(-0.15, 0, 1.86265e-08, 0, 0.15, 0, -1.86265e-08, 0, -0.15, -2.34538, 0, 0.225745)
+
+[node name="Dummy5" parent="." instance=ExtResource("3_gmyq0")]
+transform = Transform3D(-0.15, 0, 1.86265e-08, 0, 0.15, 0, -1.86265e-08, 0, -0.15, -4.59538, 0, 0.225745)
